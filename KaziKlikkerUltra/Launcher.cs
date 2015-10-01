@@ -101,9 +101,9 @@ namespace KaziKlikkerUltra
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            StreamWriter jemudr = new StreamWriter("data/anticheat/"+ Path.GetRandomFileName());
-            jemudr.WriteLine(Path.GetRandomFileName());
-            jemudr.Close();
+            //StreamWriter jemudr = new StreamWriter("data/anticheat/"+ Path.GetRandomFileName());
+            //jemudr.WriteLine(Path.GetRandomFileName());
+            //jemudr.Close();
         }
     }
 }
