@@ -1,0 +1,10 @@
+c:\users\userr\documents\visual studio 2015\Projects\KaziKlikkerUltra\KaziKlikkerUltra\bin\Debug\KaziKlikkerUltra.exe.config
+c:\users\userr\documents\visual studio 2015\Projects\KaziKlikkerUltra\KaziKlikkerUltra\obj\Debug\KaziKlikkerUltra.csprojResolveAssemblyReference.cache
+c:\users\userr\documents\visual studio 2015\Projects\KaziKlikkerUltra\KaziKlikkerUltra\obj\Debug\KaziKlikkerUltra.Properties.Resources.resources
+c:\users\userr\documents\visual studio 2015\Projects\KaziKlikkerUltra\KaziKlikkerUltra\obj\Debug\KaziKlikkerUltra.csproj.GenerateResource.Cache
+c:\users\userr\documents\visual studio 2015\Projects\KaziKlikkerUltra\KaziKlikkerUltra\bin\Debug\KaziKlikkerUltra.exe
+c:\users\userr\documents\visual studio 2015\Projects\KaziKlikkerUltra\KaziKlikkerUltra\bin\Debug\KaziKlikkerUltra.pdb
+c:\users\userr\documents\visual studio 2015\Projects\KaziKlikkerUltra\KaziKlikkerUltra\obj\Debug\KaziKlikkerUltra.exe
+c:\users\userr\documents\visual studio 2015\Projects\KaziKlikkerUltra\KaziKlikkerUltra\obj\Debug\KaziKlikkerUltra.pdb
+C:\Users\userr\documents\visual studio 2015\Projects\KaziKlikkerUltra\KaziKlikkerUltra\obj\Debug\KaziKlikkerUltra.Shop.resources
+C:\Users\userr\Documents\Visual Studio 2015\Projects\KaziKlikkerUltra\KaziKlikkerUltra\obj\Debug\KaziKlikkerUltra.Launcher.resources
