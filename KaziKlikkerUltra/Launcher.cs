@@ -104,7 +104,7 @@ namespace KaziKlikkerUltra
             StreamWriter jemudr = new StreamWriter("data/anticheat/"+ Path.GetRandomFileName());
             jemudr.WriteLine(Path.GetRandomFileName());
             jemudr.Close();
-        }
+        } //dazijpdwknls ik edit nu iets!!!
     }
 }
 
